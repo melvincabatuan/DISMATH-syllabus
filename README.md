@@ -158,11 +158,16 @@ that demonstrates why a mathematical statement is true.
 * Recursive definitions and Structural Induction
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
-### Class 8
+### Class 8 
 
 * Recursive Algorithms
 * Program Correctness
 * Representation of Functions as Power series
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+### Interlude
+* Brief Review
+* Nested Quantifiers
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 ### Class 9
@@ -170,25 +175,62 @@ that demonstrates why a mathematical statement is true.
 * Sets and Set operations
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
-### Class 10
-* Brief Review
-* Nested Quantifiers
-* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
-
 ### Quiz 1: February 19, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; Section EQ at AG702
 Coverage: Class 0 - Class 8
 
-### Class 11
+### Class 10
 * Functions
-* Graph of Functions
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+#### Homework
+
+* Self-Study: Graph of Functions
+
+### Class 11
+
+* Introduction to Algorithms
+- Finding the maximum
+- Pseudocode
+- Preconditions and Postconditions
+- Properties of Algorithm
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+### Class 12
+
+* Searching Algorithms
+- Linear Search
+- Binary Search
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+### Class 13
+
+* Sorting Algorithms
+- Bubble Sort
+- Insertion Sort
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+### Class 14
+
+* Growth of Functions
+* Algorithm Time Complexity
+- Big-Omega and Big-Theta Notation
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+
+
 
 ## Departmental Quiz Shedule
 
 * Quiz 1: February 19, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; EQ at AG702
 Coverage: Class 0 - Class 8
 
-* Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: T.B.A.
+* Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: Venue: Section EK & EL at AG703; EQ at AG702
+Coverage: Class 8 (Recursive Algorithms ONLY) - Class 14
+
 * Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
 
 Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
@@ -207,6 +249,11 @@ Note: Any schedule conflict will be settled within the same date for the corresp
 * [Stanford, Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/)
 * [MIT, Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/index.htm)
 
+
+### Interesting Reads:
+
+* Laurie Abkemeier. Case Study: How I Got the Highest Grade in my Discrete Math Class (http://calnewport.com/blog/2008/11/25/case-study-how-i-got-the-highest-grade-in-my-discrete-math-class/, accessed February 17, 2016)
+* David Patrick. Why Discrete Math Is Important. (http://artofproblemsolving.com/articles/discrete-math, accessed February 17, 2016)
 
 ### Recommended tutorial videos
 
