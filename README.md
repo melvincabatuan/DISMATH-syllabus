@@ -249,6 +249,40 @@ Coverage: Class 8 (Recursive Algorithms ONLY) - Class 14
 ### Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; EQ at AG702
 Coverage: Graph Theory (Class 15 - 16)
 
+### Class 17
+
+* Graph Coloring (Four Color Theorem)
+* Trees
+* Ordered rooted tree
+* Properties of Trees
+* Binary Search Tree
+* Tree Traversal
+* Spanning Trees
+* Slide Presentation (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/GraphTheorySlides)
+
+### Class 18
+
+* Modeling Computation
+* Automata Theory/ Finite State Machines
+* Finite-State Machines with Output
+* Finite-State Machines with No Output
+* Turing Machines
+
+### Reading Assignment: (included in the Final Examination)
+
+* Relations and Their Properties
+* n-ary Relations and Applications
+* Representing Relations
+* Closures of Relations
+* Equivalence Relations
+* Partial Orderings
+
+## Final Examination Shedule
+
+* DISMATH-EL (14-Apr-16)	(0900-1200)	(V309)
+* DISMATH-EQ (14-Apr-16)	(0900-1200)	(V307)
+* DISMATH-EK (14-Apr-16)	(0900-1200)	(V308)
+* For students with schedule conflict (1300-1600) (TBA)
 
 
 ## Departmental Quiz Shedule
