@@ -282,7 +282,7 @@ Coverage: Graph Theory (Class 15 - 16)
 * DISMATH-EL (14-Apr-16)	(0900-1200)	(V309)
 * DISMATH-EQ (14-Apr-16)	(0900-1200)	(V307)
 * DISMATH-EK (14-Apr-16)	(0900-1200)	(V308)
-* For students with schedule conflict (1300-1600) (TBA)
+* For students with schedule conflict (14-Apr-16)(1300-1600) (TBA)
 
 
 ## Departmental Quiz Shedule
