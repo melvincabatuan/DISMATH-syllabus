@@ -299,7 +299,31 @@ Coverage: Graph Theory (Class 15 - 16)
 Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
 
 
-## Project Pairing Tips
+## Project: DISMATH-MIT App Inventor Challenge
+
+### Objective:
+
+To be able to design and implement an application about the core themes or concepts of discrete mathematics using MIT App Inventor.
+
+### Requirements
+
+* Project 0.0: Hello, World! or KausapinMoKo App. (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_MIT_App_Inventor)
+* Project 1.0: Actual DISMATH-MIT App Inventor Challenge .apk file (email to: melvin.cabatuan@dlsu.edu.ph)
+* Written Documentation: (IEEE Format) (http://www.ieee.org/publications_standards/publications/conferences/2014_04_msw_a4_format.doc) 
+
+### Rate your project according to the following criteria:
+
+* Novelty (quality of being new and unusual)  [20 pts.]
+* Difficulty (fact of not being easy to do or understand) [20 pts.]
+* Creativity (original, new, or imaginative) [20 pts.]
+* Functionality (or practicality, the quality of being suited to serve a purpose well) [20 pts.]
+* Overall Impact (the WOW factor) [20 pts.]
+
+### Question to answer
+
+* How did you applied the DISMATH concept to the final project?
+
+### Pairing Tips
 
 * Three people is possible, but two works best
 * Switch who's "driving" regularly
