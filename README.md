@@ -220,6 +220,34 @@ Coverage: Class 0 - Class 8
 * [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
 * Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
 
+### Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: Section EK & EL at AG703; EQ at AG702
+Coverage: Class 8 (Recursive Algorithms ONLY) - Class 14
+
+
+### Class 15
+
+* Graph Theory introduction
+* What is a Graph?
+* Basic Terminologies, i.e. degree of a vertex, subgraph, path, circuit, ...
+* Handshaking Theorem
+* Set operations in Graph
+* Euler Circuit and Paths
+* Slide Presentation (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/GraphTheorySlides)
+
+### Class 16
+
+* Hamilton Paths and Circuits
+* Matrices of Graphs
+* Isomorphism of Graphs
+* Planar Graphs
+* Euler's Formula
+* Homeomorphic Graphs
+* Kuratowski's Theorem (Non-Planar Graphs)
+* Slide Presentation (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/GraphTheorySlides)
+
+
+### Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; EQ at AG702
+Coverage: Graph Theory (Class 15 - 16)
 
 
 
@@ -231,7 +259,8 @@ Coverage: Class 0 - Class 8
 * Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: Venue: Section EK & EL at AG703; EQ at AG702
 Coverage: Class 8 (Recursive Algorithms ONLY) - Class 14
 
-* Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
+* Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: Section EK & EL at AG703; EQ at AG702
+Coverage: Graph Theory (Class 15 - 16)
 
 Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
 
