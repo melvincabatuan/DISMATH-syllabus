@@ -319,9 +319,11 @@ To be able to design and implement an application about the core themes or conce
 * Functionality (or practicality, the quality of being suited to serve a purpose well) [20 pts.]
 * Overall Impact (the WOW factor) [20 pts.]
 
-### Question to answer
+### Questions to answer
 
-* How did you applied the DISMATH concept to the final project?
+* How did you applied the DISMATH concept to the final project? (Main section)
+* Give a specific example and solve it by hand. (Main section)
+* Give the contributions of each members in the Appendix section.
 
 ### Pairing Tips
 
