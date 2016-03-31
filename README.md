@@ -307,9 +307,9 @@ To be able to design and implement an application about the core themes or conce
 
 ### Requirements
 
-* Project 0.0: Hello, World! or KausapinMoKo App. (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_MIT_App_Inventor)
+* Project 0.0: Hello, World! or KausapinMoKo App. (COMPLETED!) (https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_MIT_App_Inventor)
 * Project 1.0: Actual DISMATH-MIT App Inventor Challenge .apk file (email to: melvin.cabatuan@dlsu.edu.ph)
-* Written Documentation: (IEEE Format) (http://www.ieee.org/publications_standards/publications/conferences/2014_04_msw_a4_format.doc) 
+* Written Documentation: (IEEE Format) (http://www.ieee.org/publications_standards/publications/conferences/2014_04_msw_a4_format.doc) (email to: melvin.cabatuan@dlsu.edu.ph)
 
 ### Rate your project according to the following criteria:
 
@@ -327,6 +327,9 @@ To be able to design and implement an application about the core themes or conce
 
 * Three people is possible, but two works best
 * Switch who's "driving" regularly
+
+### Due date: April 13, 2016 (until 5 p.m. ONLY)
+
 
 ## Resources
 
